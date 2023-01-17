@@ -1,0 +1,26 @@
+.calc {
+  margin: 10% 30%;
+  border: 1px solid grey;
+  padding: 20px;
+}
+
+.form-control {
+  width: 82%;
+  margin-left: 45px;
+}
+
+.row {
+  margin-left: 45px;
+}
+
+.btn {
+  font-size: 2rem;
+  box-shadow: 5px 5px 5px gray;
+  margin: 5px 34px 5px 0px;
+  background-color: blueviolet;
+}
+
+.num {
+  background-color: black;
+  color: white;
+}
